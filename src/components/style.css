@@ -1,0 +1,24 @@
+.credential1{
+    height: auto;
+ min-width: 200px;
+ max-width: 350px;
+ font-weight: bold;
+ align-items: center;
+ border: 1px solid #0e0c0c; 
+ box-shadow: 5px black;
+   padding: 20px;
+ margin: auto;
+ margin-top:30px;
+ border-radius: 10px;
+ background: white;
+ justify-content: center;
+ color:rgb(44, 24, 4);
+ }
+ .credential1 h3{
+     background-color: #6e6cee;
+     width: auto;
+     border-radius: 5px;
+     color: aliceblue;
+     text-align: center;
+ }
+ 
